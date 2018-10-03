@@ -4,9 +4,10 @@
 
 
 
-### What is Rust?
-![Rust](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png)
 
+![Rust](https://hsto.org/files/afc/ae4/dad/afcae4dad2184b1da76e3b23cf53a9bb.png)
+
+### What is Rust?
 Rust is a systems programming language sponsored by Mozilla which describes it as a "safe, concurrent, practical language", supporting functional and imperative-procedural paradigms. Rust is syntactically similar to C++, but its designers intend it to provide better memory safety while still maintaining performance.
 
 Rust is free and open-source software, released under an MIT License, or Apache License 2.0. Its designers have refined the language through the experiences of writing the Servo web browser layout engine and the Rust compiler. A large proportion of current commits to the project are from community members.
