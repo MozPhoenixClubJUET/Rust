@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/neutralinojs/neutralinojs.svg)](https://github.com/neutralinojs/neutralinojs/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/neutralinojs/neutralinojs.svg)](https://github.com/MozPhoenixClubJUET/Rust/blob/master/LICENSE)
 
 <h1><a>Algorithms & Programs in Rust</a></h1>
 
